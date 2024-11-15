@@ -11,8 +11,7 @@ A frontend project that showcases a Nike shoes brand webpage. Built using only H
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
+
 
 ## Features
 
